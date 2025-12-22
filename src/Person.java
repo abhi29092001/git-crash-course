@@ -1,8 +1,8 @@
 public class Person {
     private final String name;
-    private final String age;
+    private final int age;
 
-    public Person(String name, String age) {
+    public Person(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -11,7 +11,7 @@ public class Person {
         return name;
     }
 
-    public String getAge() {
+    public int getAge() {
         return age;
     }
 
