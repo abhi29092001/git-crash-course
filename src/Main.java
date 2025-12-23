@@ -4,5 +4,6 @@ public class Main {
         Student student = new Student("John", 15, "stu12826");
         person.displayInfo();
         student.displayInfo();
+        System.out.println(student.getName());
     }
 }
