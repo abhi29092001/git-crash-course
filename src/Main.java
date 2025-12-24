@@ -6,5 +6,6 @@ public class Main {
         student.displayInfo();
         System.out.println(student.getName());
         System.out.println(student.getAge());
+        System.out.println(person.getName());
     }
 }
