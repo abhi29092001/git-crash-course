@@ -7,5 +7,8 @@ public class Main {
         System.out.println(student.getName());
         System.out.println(student.getAge());
         System.out.println(person.getName());
+        System.out.println("****************");
+        System.out.println("****************");
+        System.out.println("****The END*****");
     }
 }
